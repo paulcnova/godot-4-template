@@ -18,6 +18,12 @@ config/icon="res://icon.svg"
 
 TooltipLayer="*uid://bqh1xtlsnd73t"
 
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/stretch/mode="canvas_items"
+
 [editor_plugins]
 
 enabled=PackedStringArray("res://addons/pgtk_tooltips/plugin.cfg")
