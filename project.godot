@@ -22,6 +22,17 @@ TooltipLayer="*uid://bqh1xtlsnd73t"
 
 enabled=PackedStringArray("res://addons/pgtk_tooltips/plugin.cfg")
 
+[file_customization]
+
+folder_colors={
+"res://addons/": "blue",
+"res://app/": "red",
+"res://content/": "yellow",
+"res://game/": "purple",
+"res://interface/": "green",
+"res://scenes/": "pink"
+}
+
 [gui]
 
 tooltips/tooltip_res_path="res://interface/tooltips"
