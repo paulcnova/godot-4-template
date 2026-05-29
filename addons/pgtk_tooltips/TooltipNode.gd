@@ -78,7 +78,7 @@ func _ready() -> void:
 	self._delay_timer.timeout.connect(self.show_tooltip);
 	self.add_child(self._delay_timer);
 
-#endregion // Godot Methods
+#endregion Godot Methods
 
 #region Public Methods
 
