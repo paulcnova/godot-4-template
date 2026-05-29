@@ -13,7 +13,7 @@
 		"*.cs": "${capture}.cs.uid",
 		"*.gd": "${capture}.gd.uid",
 		"*.svg": "${capture}.svg.import",
-		"*.pmg": "${capture}.png.import",
+		"*.png": "${capture}.png.import",
 		"project.godot": "*.sln,*.csproj"
 	},
 	"cSpell.words": [
