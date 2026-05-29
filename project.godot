@@ -35,6 +35,8 @@ folder_colors={
 
 [gui]
 
+theme/default_font_multichannel_signed_distance_field=true
+theme/custom="uid://bdqv8q8gjffuh"
 tooltips/tooltip_res_path="res://interface/tooltips"
 tooltips/tooltip_suffix=".tooltip.tscn"
 tooltips/tooltip_layer=10
